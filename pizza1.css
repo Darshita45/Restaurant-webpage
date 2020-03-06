@@ -1,0 +1,15 @@
+body{
+	background: url(pizzaa.jfif)
+	no-repeat center center fixed;
+	background-size: cover;
+	font-family: sans-serif;
+}
+header{
+	width: 80%;
+	margin: auto;
+	overflow: hidden;
+}
+p,li
+{
+	color: #fff;
+}
